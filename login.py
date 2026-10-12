@@ -10,8 +10,8 @@ except ImportError:
 from telethon import TelegramClient
 from telethon.sessions import StringSession
 
-API_ID = "27#####"
-API_HASH = "d0c6054d########fa9#####e1"
+API_ID = os.environ.get("API_ID")
+API_HASH = os.environ.get("API_HASH")
 
 
 async def main():
