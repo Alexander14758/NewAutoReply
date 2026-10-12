@@ -109,7 +109,7 @@ BUTTON_ADD_COMMENT = "➕ Add comment"
 BUTTON_DELETE_COMMENT = "🗑️ Delete comment"
 BUTTON_SET_COOLDOWN = "⏱️ Set cooldown"
 BUTTON_START_BOT = "▶️ Start bot"
-BUTTON_STOP_BOT = "⏹️ Stop bot"
+BUTTON_STOP_BOT = "🛑 Stop bot"
 BUTTON_UNLOCK = "🔐 Unlock controls"
 BUTTON_CANCEL = "❌ Cancel"
 
